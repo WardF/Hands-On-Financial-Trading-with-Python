@@ -6,12 +6,16 @@
 
 ## Environmental Commands
 
-Set up the environment using the following:
+Set up the environment using the following (jupyter notebook):
 
-    $ conda install -c conda-forge notebook nb_conda_kernels matplotlib numpy pandas scipy seaborn
+    $ conda install -c conda-forge notebook nb_conda_kernels matplotlib numpy pandas scipy seaborn dtale
+
+Alternatively, set up the environment using `jupyterlab`
+
+    $ conda install -c conda-forge notebook nb_conda_kernels matplotlib numpy pandas scipy seaborn dtale    
 
 
-## General Conda commands
+## General Conda command
 
 * `conda env list`
 * `conda create -n [quantfi]`
