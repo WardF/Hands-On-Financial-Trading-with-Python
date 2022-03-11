@@ -12,6 +12,11 @@
 * `conda create -n [quantfi]`
 * `conda activate [quantfi]`
 
+Updating all the packages in an environment:
+
+* `conda update -n [environment] --all`
+
+
 ### Bootstrap environments for this project
 
 Set up the environment using the following (jupyter notebook):
